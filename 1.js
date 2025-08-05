@@ -1,5 +1,8 @@
 <html>
+    <body>
+        
 <script>
         alert("I Started Javascript Tutorial !");
-<script/>
-<html/>
+</script>
+        </body>
+</html>
